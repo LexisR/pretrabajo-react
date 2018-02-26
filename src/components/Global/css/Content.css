@@ -1,4 +1,8 @@
+body, .row{
+  margin: 0;
+  padding: 0;
+}
+
 .Content {
-  width: 90%;
-  margin: 0 auto;
+
 }
