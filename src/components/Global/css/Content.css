@@ -1,8 +1,28 @@
-body, .row{
-  margin: 0;
-  padding: 0;
+.Content{
+  width: 100%;
+  height: 100vh;
+}
+.Promo1 {
+  width: 20em;
+}
+.Promo2 {
+  width: 20em;
+}
+.Sales1{
+  display: block;
+  width: 50%;
+  height: auto;
+  float: left;
+  margin: 0 auto;
+  outline: 1px solid red;
 }
 
-.Content {
+.Sales2{
+  display: block;
+  width: 50%;
+  height: auto;
+  float: right;
+  margin: 0 auto;
+  outline: 1px solid blue;
 
 }

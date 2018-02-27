@@ -15,5 +15,5 @@ firebase.initializeApp({
   messagingSenderId: "797792105313"
 });
 
-render(<App />, document.getElementById('root'));
+render(<App/>, document.getElementById('root'));
 registerServiceWorker();
